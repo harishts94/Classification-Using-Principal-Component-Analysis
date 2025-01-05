@@ -1,5 +1,5 @@
 ###################################################################################################################
-# Compressing Feature Space For Classification Using PCAK Principal Component Analysis (PCA)
+# Compressing Feature Space For Classification Using Principal Component Analysis (PCA)
 ###################################################################################################################
 """
 In this project we use Principal Component Analysis (PCA) to compress 100 unlabelled, sparse features into a more manageable number for classiying buyers of Ed Sheeran’s latest album.
